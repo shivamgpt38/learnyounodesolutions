@@ -1,0 +1,1 @@
+console.log("abcjbaicja \n nsbicbs \n".split("\n"));
